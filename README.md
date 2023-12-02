@@ -52,6 +52,7 @@
 Запишите в Redis несколько ключей с любыми именами и значениями. 
 
 *Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.*
+
 ---
 ### Ответ:
 ![redis_service](https://github.com/RybakEgor/11_02_Redis-memcached/blob/main/img/redis_service.png)
